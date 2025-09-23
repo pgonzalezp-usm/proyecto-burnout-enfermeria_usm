@@ -1,0 +1,150 @@
+Estudiante_ID,Edad,Nota_Mat,Nota_Leng,Nota_CS,Genero,Comuna,Promedio,Rango_Edad
+85,18,80,90,96,femenino,Tomé,88.66666666666667,Menor de 25
+108,18,96,73,95,masculino,Concepción,88.0,Menor de 25
+117,21,94,87,82,prefiero no decirlo,Tomé,87.66666666666667,Menor de 25
+157,26,90,90,94,prefiero no decirlo,Tomé,91.33333333333333,Mayor o igual de 25 años
+237,23,94,92,96,femenino,Concepción,94.0,Menor de 25
+238,20,92,96,86,prefiero no decirlo,San Pedro,91.33333333333333,Menor de 25
+347,18,85,93,80,femenino,Concepción,86.0,Menor de 25
+388,20,93,89,96,femenino,Hualpén,92.66666666666667,Menor de 25
+439,20,97,91,75,femenino,San Pedro,87.66666666666667,Menor de 25
+451,26,94,90,82,prefiero no decirlo,Lota,88.66666666666667,Mayor o igual de 25 años
+506,24,87,97,86,prefiero no decirlo,Lota,90.0,Menor de 25
+512,22,98,86,78,prefiero no decirlo,San Pedro,87.33333333333333,Menor de 25
+542,27,92,86,87,masculino,San Pedro,88.33333333333333,Mayor o igual de 25 años
+637,23,85,86,95,prefiero no decirlo,Tomé,88.66666666666667,Menor de 25
+662,29,88,81,87,prefiero no decirlo,Arauco,85.33333333333333,Mayor o igual de 25 años
+729,27,90,83,93,prefiero no decirlo,Concepción,88.66666666666667,Mayor o igual de 25 años
+765,22,99,70,91,femenino,Penco,86.66666666666667,Menor de 25
+815,20,99,98,76,masculino,Hualpén,91.0,Menor de 25
+1135,23,95,92,93,prefiero no decirlo,Arauco,93.33333333333333,Menor de 25
+1182,26,89,84,85,femenino,Concepción,86.0,Mayor o igual de 25 años
+1197,28,90,76,93,prefiero no decirlo,Penco,86.33333333333333,Mayor o igual de 25 años
+1214,23,87,90,89,masculino,Arauco,88.66666666666667,Menor de 25
+1348,29,83,96,97,masculino,Lota,92.0,Mayor o igual de 25 años
+1390,24,97,88,99,masculino,Penco,94.66666666666667,Menor de 25
+1472,27,83,90,98,prefiero no decirlo,Arauco,90.33333333333333,Mayor o igual de 25 años
+1496,20,81,96,86,masculino,Lota,87.66666666666667,Menor de 25
+1596,21,95,77,91,prefiero no decirlo,Arauco,87.66666666666667,Menor de 25
+1663,25,95,96,95,femenino,Lota,95.33333333333333,Mayor o igual de 25 años
+1664,29,93,98,91,prefiero no decirlo,San Pedro,94.0,Mayor o igual de 25 años
+1717,29,92,78,91,femenino,Concepción,87.0,Mayor o igual de 25 años
+2081,24,98,82,84,femenino,Hualpén,88.0,Menor de 25
+2294,28,67,98,96,masculino,Penco,87.0,Mayor o igual de 25 años
+2425,26,79,89,97,prefiero no decirlo,Lota,88.33333333333333,Mayor o igual de 25 años
+2452,29,99,94,90,prefiero no decirlo,Penco,94.33333333333333,Mayor o igual de 25 años
+2669,20,84,94,91,masculino,Arauco,89.66666666666667,Menor de 25
+2744,26,93,97,97,masculino,Concepción,95.66666666666667,Mayor o igual de 25 años
+2801,21,80,99,91,femenino,Hualpén,90.0,Menor de 25
+2806,19,89,92,95,masculino,Coronel,92.0,Menor de 25
+2837,19,86,91,99,femenino,Tomé,92.0,Menor de 25
+2869,23,91,74,96,femenino,Penco,87.0,Menor de 25
+2915,21,96,67,96,masculino,Coronel,86.33333333333333,Menor de 25
+3077,21,84,85,97,prefiero no decirlo,Arauco,88.66666666666667,Menor de 25
+3220,22,85,81,95,masculino,Coronel,87.0,Menor de 25
+3280,28,84,97,84,masculino,Coronel,88.33333333333333,Mayor o igual de 25 años
+3300,25,94,78,95,femenino,Lota,89.0,Mayor o igual de 25 años
+3375,19,91,90,87,prefiero no decirlo,Hualpén,89.33333333333333,Menor de 25
+3522,20,97,98,85,femenino,Tomé,93.33333333333333,Menor de 25
+3552,24,90,74,93,prefiero no decirlo,Tomé,85.66666666666667,Menor de 25
+3556,22,84,91,87,masculino,Coronel,87.33333333333333,Menor de 25
+3583,20,86,88,99,masculino,Coronel,91.0,Menor de 25
+3625,18,83,89,98,femenino,Concepción,90.0,Menor de 25
+3700,26,98,93,74,prefiero no decirlo,Concepción,88.33333333333333,Mayor o igual de 25 años
+3779,24,98,87,84,femenino,Arauco,89.66666666666667,Menor de 25
+3796,25,98,94,98,femenino,Tomé,96.66666666666667,Mayor o igual de 25 años
+3824,26,98,64,95,prefiero no decirlo,Coronel,85.66666666666667,Mayor o igual de 25 años
+3988,22,87,92,99,femenino,San Pedro,92.66666666666667,Menor de 25
+4083,29,96,97,99,femenino,Penco,97.33333333333333,Mayor o igual de 25 años
+4181,27,96,99,82,femenino,Tomé,92.33333333333333,Mayor o igual de 25 años
+4279,27,93,80,96,masculino,Coronel,89.66666666666667,Mayor o igual de 25 años
+4396,18,97,91,91,prefiero no decirlo,Hualpén,93.0,Menor de 25
+4440,21,76,94,92,masculino,Arauco,87.33333333333333,Menor de 25
+4450,22,76,99,92,masculino,Arauco,89.0,Menor de 25
+4495,20,85,99,89,femenino,Tomé,91.0,Menor de 25
+4545,22,99,82,94,prefiero no decirlo,Penco,91.66666666666667,Menor de 25
+4628,28,77,93,91,prefiero no decirlo,San Pedro,87.0,Mayor o igual de 25 años
+4639,29,81,87,96,masculino,Coronel,88.0,Mayor o igual de 25 años
+4648,25,99,99,68,prefiero no decirlo,Penco,88.66666666666667,Mayor o igual de 25 años
+4701,28,97,89,71,prefiero no decirlo,Lota,85.66666666666667,Mayor o igual de 25 años
+4909,23,99,91,82,masculino,San Pedro,90.66666666666667,Menor de 25
+4937,27,76,88,95,masculino,Hualpén,86.33333333333333,Mayor o igual de 25 años
+5089,25,95,72,89,masculino,Tomé,85.33333333333333,Mayor o igual de 25 años
+5111,26,95,67,98,femenino,Lota,86.66666666666667,Mayor o igual de 25 años
+5150,29,96,61,99,prefiero no decirlo,Coronel,85.33333333333333,Mayor o igual de 25 años
+5188,29,93,94,70,masculino,San Pedro,85.66666666666667,Mayor o igual de 25 años
+5190,22,75,86,96,femenino,Tomé,85.66666666666667,Menor de 25
+5198,20,91,82,86,prefiero no decirlo,Arauco,86.33333333333333,Menor de 25
+5341,20,99,92,68,femenino,Hualpén,86.33333333333333,Menor de 25
+5414,23,98,96,78,femenino,Concepción,90.66666666666667,Menor de 25
+5553,25,89,94,97,femenino,Coronel,93.33333333333333,Mayor o igual de 25 años
+5559,29,88,95,89,prefiero no decirlo,San Pedro,90.66666666666667,Mayor o igual de 25 años
+5614,23,99,89,91,femenino,Lota,93.0,Menor de 25
+5643,18,82,88,92,masculino,Hualpén,87.33333333333333,Menor de 25
+5718,23,96,94,81,prefiero no decirlo,Arauco,90.33333333333333,Menor de 25
+5765,23,88,84,94,masculino,Arauco,88.66666666666667,Menor de 25
+5778,21,95,89,74,masculino,Penco,86.0,Menor de 25
+5891,21,99,82,89,femenino,Coronel,90.0,Menor de 25
+5896,28,93,80,95,femenino,Penco,89.33333333333333,Mayor o igual de 25 años
+5904,21,86,90,92,femenino,Lota,89.33333333333333,Menor de 25
+6050,25,82,98,80,masculino,Penco,86.66666666666667,Mayor o igual de 25 años
+6209,29,76,92,94,masculino,Penco,87.33333333333333,Mayor o igual de 25 años
+6233,26,77,95,91,masculino,Concepción,87.66666666666667,Mayor o igual de 25 años
+6238,24,98,96,98,prefiero no decirlo,Hualpén,97.33333333333333,Menor de 25
+6311,21,95,97,89,masculino,San Pedro,93.66666666666667,Menor de 25
+6334,27,94,73,95,prefiero no decirlo,Arauco,87.33333333333333,Mayor o igual de 25 años
+6343,21,83,99,76,prefiero no decirlo,Lota,86.0,Menor de 25
+6421,29,96,82,90,prefiero no decirlo,Coronel,89.33333333333333,Mayor o igual de 25 años
+6564,27,86,94,82,femenino,Lota,87.33333333333333,Mayor o igual de 25 años
+6565,24,74,96,97,prefiero no decirlo,Coronel,89.0,Menor de 25
+6594,22,97,91,84,masculino,Coronel,90.66666666666667,Menor de 25
+6598,23,81,81,98,masculino,Penco,86.66666666666667,Menor de 25
+6678,19,82,86,91,prefiero no decirlo,Tomé,86.33333333333333,Menor de 25
+6756,26,91,74,98,masculino,Arauco,87.66666666666667,Mayor o igual de 25 años
+6809,24,96,98,62,masculino,Lota,85.33333333333333,Menor de 25
+6894,25,77,86,93,femenino,Concepción,85.33333333333333,Mayor o igual de 25 años
+7099,18,94,81,98,masculino,Lota,91.0,Menor de 25
+7119,27,97,96,80,prefiero no decirlo,Arauco,91.0,Mayor o igual de 25 años
+7120,24,82,77,97,prefiero no decirlo,Tomé,85.33333333333333,Menor de 25
+7154,19,79,91,95,prefiero no decirlo,Hualpén,88.33333333333333,Menor de 25
+7164,26,85,92,83,femenino,Hualpén,86.66666666666667,Mayor o igual de 25 años
+7214,25,82,98,95,femenino,Coronel,91.66666666666667,Mayor o igual de 25 años
+7241,21,78,87,96,masculino,Concepción,87.0,Menor de 25
+7278,21,84,82,99,masculino,San Pedro,88.33333333333333,Menor de 25
+7286,28,88,97,85,prefiero no decirlo,Penco,90.0,Mayor o igual de 25 años
+7293,24,87,89,82,prefiero no decirlo,Penco,86.0,Menor de 25
+7361,23,93,77,95,femenino,Concepción,88.33333333333333,Menor de 25
+7366,23,92,79,89,prefiero no decirlo,Hualpén,86.66666666666667,Menor de 25
+7430,18,98,87,84,femenino,Lota,89.66666666666667,Menor de 25
+7546,29,91,85,85,masculino,Penco,87.0,Mayor o igual de 25 años
+7560,27,94,82,86,masculino,Penco,87.33333333333333,Mayor o igual de 25 años
+7604,26,94,92,74,masculino,Arauco,86.66666666666667,Mayor o igual de 25 años
+7652,18,78,93,97,masculino,San Pedro,89.33333333333333,Menor de 25
+7665,25,99,98,87,masculino,Penco,94.66666666666667,Mayor o igual de 25 años
+7684,29,74,90,95,masculino,Tomé,86.33333333333333,Mayor o igual de 25 años
+7789,22,79,98,90,femenino,Tomé,89.0,Menor de 25
+7821,26,76,94,92,femenino,Hualpén,87.33333333333333,Mayor o igual de 25 años
+7903,24,99,75,95,prefiero no decirlo,Tomé,89.66666666666667,Menor de 25
+7947,28,97,95,87,femenino,Tomé,93.0,Mayor o igual de 25 años
+8019,19,93,96,83,prefiero no decirlo,Concepción,90.66666666666667,Menor de 25
+8037,21,98,78,81,prefiero no decirlo,Penco,85.66666666666667,Menor de 25
+8151,23,63,95,99,prefiero no decirlo,Hualpén,85.66666666666667,Menor de 25
+8413,20,94,97,90,masculino,Tomé,93.66666666666667,Menor de 25
+8430,25,76,93,94,masculino,Coronel,87.66666666666667,Mayor o igual de 25 años
+8547,26,97,67,99,femenino,Arauco,87.66666666666667,Mayor o igual de 25 años
+8600,23,97,94,88,prefiero no decirlo,Hualpén,93.0,Menor de 25
+8682,19,94,92,70,masculino,Lota,85.33333333333333,Menor de 25
+8703,19,96,86,91,masculino,Concepción,91.0,Menor de 25
+8704,27,78,90,93,femenino,Arauco,87.0,Mayor o igual de 25 años
+9009,19,93,95,98,masculino,Coronel,95.33333333333333,Menor de 25
+9193,19,99,90,77,femenino,Coronel,88.66666666666667,Menor de 25
+9214,27,98,97,76,prefiero no decirlo,San Pedro,90.33333333333333,Mayor o igual de 25 años
+9248,25,94,94,91,masculino,Concepción,93.0,Mayor o igual de 25 años
+9249,19,93,91,91,femenino,Arauco,91.66666666666667,Menor de 25
+9281,27,83,99,74,prefiero no decirlo,Tomé,85.33333333333333,Mayor o igual de 25 años
+9330,29,96,82,81,femenino,Penco,86.33333333333333,Mayor o igual de 25 años
+9444,25,77,97,83,prefiero no decirlo,Hualpén,85.66666666666667,Mayor o igual de 25 años
+9596,22,85,94,91,masculino,Concepción,90.0,Menor de 25
+9796,20,99,92,79,masculino,Lota,90.0,Menor de 25
+9897,28,87,87,87,prefiero no decirlo,Arauco,87.0,Mayor o igual de 25 años
+9967,21,69,99,90,masculino,San Pedro,86.0,Menor de 25
