@@ -8,4 +8,6 @@
 
 ## DATOS TECNICOS
 
-> Archivos de estudio se encuentran en la ruta
+> Archivos de estudio se encuentran en las siguientes rutas
+> * data/Healthcare Workforce Mental Health Dataset.csv
+> * notebooks/Proyecto_Final.ipynb
